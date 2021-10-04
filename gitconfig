@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = sarahmce@protonmail.com
+	name = Sarah McElligott
